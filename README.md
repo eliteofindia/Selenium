@@ -1,2 +1,2 @@
 # Selenium
-Help content for creating an awsome framework in C#
+Help content for creating an awesome framework in C#
